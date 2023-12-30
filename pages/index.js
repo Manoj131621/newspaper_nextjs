@@ -1,4 +1,4 @@
-import Navbar from '@/pages/Navbar';
+import Navbar from '@/components/Navbar';
 import 'bootstrap/dist/css/bootstrap.css'
 import { useState } from 'react';
 import Newspage from './Newspage';
